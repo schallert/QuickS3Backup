@@ -1,0 +1,6 @@
+bin/
+lib/
+include/
+.Python
+.DS_Store
+config.json
